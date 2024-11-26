@@ -506,12 +506,13 @@ nav {
         width: 28px;
     }
     .homePage .text-info {
-        margin-top: 15px;
+        margin-top: 20px;
         padding-top: 10px;
     }
     .homePage .text-info h1, h2 {
         font-size: var(--font-size-s);
         font-weight: var(--font-weight-semibold);
+        padding-top: 10px;
     }
     #about {
         width: 100%;
