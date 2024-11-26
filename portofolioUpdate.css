@@ -496,10 +496,13 @@ nav {
     .homePage .lamp-image {
         width: 28px;
     }
+    .homePage .text-info {
+        margin-top: 15px;
+        padding-top: 10px;
+    }
     .homePage .text-info h1, h2 {
         font-size: var(--font-size-s);
         font-weight: var(--font-weight-semibold);
-        margin-top: 13px;
     }
     .left--container img {
         max-width: 200px;
